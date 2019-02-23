@@ -11,3 +11,11 @@
 	* Combining multiple strings.
 	* Finding a Substring Within a String.
 	* Replacing a Substring.
+* Expressions.playground
+	* Assignment operator (=)
+	* Comparison operator (==)
+
+* Function.playground
+	* normal funcation
+	* function with multiple parameters
+	* function returning values
