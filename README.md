@@ -1,6 +1,13 @@
 # Swift Basic
 
-* String print
-* String loop
-* String reversed
-* example of string interpolation
+* StringLoop.playground
+  * String print.
+  * String loop.
+  * String reversed.
+* StringInterpolation.playground.
+  * example of string interpolation.
+
+* Substring.playground
+	* Combining multiple strings.
+	* Finding a Substring Within a String.
+	* Replacing a Substring.
